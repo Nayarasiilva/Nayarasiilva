@@ -1,1 +1,17 @@
-# nayara
+# Nayara
+
+Possuo mais de cinco anos de experiência como Analista de Garantia de Qualidade (QA). Iniciei minha carreira com foco na gestão e no estabelecimento de processos na área de qualidade, o que me proporcionou uma sólida base de conhecimentos e vivência prática. Atualmente, estou direcionando meu desenvolvimento para o aperfeiçoamento técnico, buscando ampliar minhas habilidades para continuar evoluindo e contribuindo de forma ainda mais impactante para a área.
+  
+<div style="display: inline_block"><br>
+   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:nayaracosta092@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nayara-s-324123141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
