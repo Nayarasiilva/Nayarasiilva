@@ -1,9 +1,48 @@
 Possuo mais de cinco anos de experiência como Analista de Garantia de Qualidade (QA). Iniciei minha carreira com foco na gestão e no estabelecimento de processos na área de qualidade, o que me proporcionou uma sólida base de conhecimentos e vivência prática. Atualmente, estou direcionando meu desenvolvimento para o aperfeiçoamento técnico, buscando ampliar minhas habilidades para continuar evoluindo e contribuindo de forma ainda mais impactante para a área.
+
+<div style="display: inline_block"><br>
+  <h4 align="left">IDE</h4>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />      
+</div>
+
+<div style="display: inline_block"><br>
+  <h4 align="left">Teste E2E </h4>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+</div>
+
+<div style="display: inline_block"><br>
+  <h4 align="left">Teste API </h4>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+  <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />                  
+</div>
+
+
+<div style="display: inline_block"><br>
+  <h4 align="left">Ferramentas</h4>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/browserstack/browserstack-original.svg" >
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" />   
+  <img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-plain.svg" />  
+          
+</div>
+
+<div style="display: inline_block"><br>
+  <h4 align="left">Ferramentas de gerenciamento </h4>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" /> 
+  <img align="center" height="30" width="40" src="https://qase.io/images/qase-logo-white.svg" />  
+</div>
+
+<div style="display: inline_block"><br>
+  <h4 align="left">Banco de dados</h4>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> 
+</div>
   
 <div style="display: inline_block"><br>
-   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <h4 align="left">Linguagens</h4>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />     
 </div>
   
   ##
