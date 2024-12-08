@@ -1,5 +1,3 @@
-# Nayara
-
 Possuo mais de cinco anos de experiência como Analista de Garantia de Qualidade (QA). Iniciei minha carreira com foco na gestão e no estabelecimento de processos na área de qualidade, o que me proporcionou uma sólida base de conhecimentos e vivência prática. Atualmente, estou direcionando meu desenvolvimento para o aperfeiçoamento técnico, buscando ampliar minhas habilidades para continuar evoluindo e contribuindo de forma ainda mais impactante para a área.
   
 <div style="display: inline_block"><br>
