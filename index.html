@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfólio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<script src="script.js"></script>
+  <div class="theme-toggle-link" onclick="toggleTheme()">🌑</div>
+  <div class="container">
+    <header>
+      <img src="nayarasiilva.jpg" alt="Minha Foto" class="profile-photo">
+      <h1>Nayara</h1>
+      <p class="slogan">Qualidade é simples, quando se sabe onde olhar</p>
+    </header>
+
+    <nav>
+      <ul>
+        <li data-title="Sobre mim" onclick="scrollToSection('sobre')">
+            <span class="icon">💬</span>
+        </li>
+        <li data-title="Qualidade de Software" onclick="scrollToSection('qualidade')">
+          <span class="icon">🐞</span>
+        </li>
+        <li data-title="Metodologias" onclick="scrollToSection('metodologias')">
+          <span class="icon">📊</span>
+        </li>
+        <li data-title="Ferramentas" onclick="scrollToSection('ferramentas')">
+          <span class="icon">🛠️</span>
+        </li>
+        <li data-title="Tipos de Testes" onclick="scrollToSection('tipos-testes')">
+          <span class="icon">📝</span>
+        </li>
+        <li data-title="Testes" onclick="scrollToSection('testes')">
+          <span class="icon">✅</span>
+        </li>
+        <li data-title="Linguagens" onclick="scrollToSection('linguagens')">
+          <span class="icon">🔤</span>
+        </li>
+      </ul>
+    </nav>
+
+    <!-- Seções com IDs corretos para navegação -->
+    <section id="sobre">
+      <div class="card">
+        <p>Com mais de cinco anos de experiência como Analista de Garantia de Qualidade (QA), atuo como guardiã da confiança nos produtos e processos que passam pelas minhas mãos. Minha trajetória começou com foco na gestão e estruturação de processos de qualidade, onde desenvolvi uma base sólida de conhecimento, visão sistêmica e pensamento estratégico.
+        Hoje, estou em constante transformação, aprofundando minhas habilidades técnicas e expandindo meu repertório com propósito: entregar qualidade com mais profundidade, precisão e impacto. 
+    </br>Acredito que qualidade vai além dos testes — é cultura, é clareza, é construção contínua.
+            
+        </br> 🎯 Minha missão? Tornar a qualidade simples, acessível e essencial em cada etapa do desenvolvimento de software.  </br> 🚀 Meu propósito maior? Inspirar, ensinar e ajudar outras pessoas a enxergar onde realmente importa.</p>
+      </div>
+    <footer>
+      <p>&copy; 2025 Nayara Silva. Todos os direitos reservados.</p>
+    </footer>
+  </div>
+</body>
+</html>
